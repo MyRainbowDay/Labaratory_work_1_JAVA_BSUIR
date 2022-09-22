@@ -1,0 +1,1 @@
+out/artifacts/Labaratory_work_1_jar/Labaratory_work_1.jar
